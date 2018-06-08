@@ -1,24 +1,15 @@
-# README
+## Saas application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#  Software-as-a-Service Ruby on Rails App
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#  Technologies Used: 
+    -  Ruby on Rails
+    -  HTML 
+    -  CSS
+    -  JavaScript
+    -  bootstrap-sass, 3.3.7
+    -  hirb, 0.7.3
+    -  devise, 4.2.0
+    -  font-awesome-sass, 4.6.2
+    -  sqlite3
+    -  c9 platform
